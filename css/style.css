@@ -1,0 +1,24 @@
+.main_header img{
+    height: 100%;
+    width:100%;
+}
+.bg-black{
+    color: #fff;
+    background: #000000;
+}
+.list{
+    padding-right: 0px !important;
+}
+@media (min-width: 1200px){
+.container {
+    max-width: 1104px !important;
+}
+}
+.port-item{
+
+}
+@media (min-width: 1200px){
+ .bg-black{
+    
+ }
+}
